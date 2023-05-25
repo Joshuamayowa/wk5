@@ -1,0 +1,30 @@
+ul,body{
+    margin: 0;
+}
+nav{
+    background-color: black;
+    text-transform: capitalize;
+    border-bottom: groove beige 2rem;
+
+    
+}
+ul{
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    font-size: 2em;
+    font: green;
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-evenly;
+    
+    
+}
+li{
+    border-bottom: 20px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: coral;
+}
